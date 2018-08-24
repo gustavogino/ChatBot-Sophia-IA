@@ -17,10 +17,8 @@ O arquivo Requirements.txt, contem as bibliotecas a serem instaladas para o func
 
 
 --
---
+
 Gustavo Gino Scotton
-
 Engenharia da Computação - UFSC
-
 gustavo.gino@outlook.com
 
