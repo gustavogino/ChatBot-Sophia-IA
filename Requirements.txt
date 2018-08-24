@@ -1,0 +1,12 @@
+SpeechRecognition
+paho-mqtt
+playsound
+PyAudio
+cv2
+chatterbot
+pyttsx
+pyttsx3
+wikipedia
+googlesearch
+pypiwin32
+pywin32
