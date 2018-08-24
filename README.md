@@ -16,7 +16,7 @@ Chatbot em português utilizando a biblioteca Chatterbot.
 O arquivo Requirements.txt, contem as bibliotecas a serem instaladas para o funcionamento da rede.
 
 
---
+-------------------------
 
 Gustavo Gino Scotton    |   Engenharia da Computação - UFSC   |   gustavo.gino@outlook.com
 
