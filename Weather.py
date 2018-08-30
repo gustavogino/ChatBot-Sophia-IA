@@ -1,15 +1,3 @@
-#!/bin/env python3
-# -*- coding: utf-8 -*-
-#
-# Copyright (c) 2013 - Fernando B. Giannasi
-# This work is free. You can redistribute it and/or modify it under the
-# terms of the Do What The Fuck You Want To Public License, Version 2,
-# as published by Sam Hocevar.
-#
-# Este pequeno script obtem dados em XML do CPTEC/INPE (Centro de Previsão
-# de Tempo e Estudos Climáticos do Instituto Nacional de Pesquisas Espaciais)
-# para as cidades brasileiras e imprime o resultado no terminal.
-
 import urllib.request
 import xml.etree.ElementTree
 import sys
