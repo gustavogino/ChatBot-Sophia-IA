@@ -1,64 +1,4 @@
 # -*- coding: utf-8 -*-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""			"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"																	   "			"																	  "
-"        				   ASSISTENTE VIRTUAL   	     			   "			"		> Instruções de Código:										  "
-"																	   "			"																	  "
-"	> Versão: 1.0.0  (Beta)											   "			"			- Escrever as instruções pra quem for utilizar			  "
-"																	   "			"																	  "
-"	> Objetivos de Implementação:									   "			"																	  "
-"																	   "			"																	  "
-"		(*)Concluido	(-)Desenvolvendo							   "			"																	  "
-"																	   "			"																	  "
-"		* Pesquisa Wikipédia (Concluido)							   "			"																	  "
-"		- Abrir Facebook											   "			"																	  "
-"		- Abrir Twitter												   "			"																	  "
-"		- Melhorar Conversação Chatbot								   "			"																	  "
-"		- Arrumar Bugs nos códigos									   "			"																	  "
-"		- Função ajudar a decidir									   "			"																	  "
-"		- Ligar as X horas											   "			"																	  "
-"		- Criar agenda e lembretes									   "			"																	  "
-"		- Controlar eletronicos										   "			"																	  "
-"		- Controlar luzes											   "			"																	  "
-"		- Controlar janelas											   "			"																	  "
-"		- Controlar alarme											   "			"																	  "
-"		- Controlar trancas											   "			"																	  "
-"		- Controlar Robo Limpeza									   "			"																	  "
-"		- Realizar Calculos											   "			"																	  "
-"		- Gerir finanças											   "			"																	  "
-"		- Aux. controle de calorias									   "			"																	  "
-"		- Ler página webbrowser										   "			"																	  "
-"		- Abrir media player										   "			"																	  "
-"		- Musica no youtube											   "			"																	  "
-"		- Abrir aplicativos											   "			"																	  "
-"		- Fechar aplicativos										   "			"																	  "
-"		- Contar História / Piada									   "			"																	  "
-"		- Tutor (Ensina a usar)										   "			"																	  "
-"		- Buscar preço + barato (zoom)								   "			"																	  "
-"		- Realizar conversão										   "			"																	  "
-"		- Base de conhecimentos básica								   "			"																	  "
-"		- Lista telefonica											   "			"																	  "
-"		- Emergencia (Auto-Chamada)									   "			"																	  "
-"		- Leitor de Textos											   "			"																	  "
-"		- Feriados (Mes, proximo, tipo)								   "			"																	  "
-"		- Conselhos (Ex.Levar guarda-chupa)							   "			"																	  "
-"		- Detecção facial											   "			"																	  "
-"		- Sugestao de comida										   "			"																	  "
-"		- Controle de luminosidade									   "			"																	  "
-"		- Modo economia de energia 									   "			"																	  "
-"		- Tradutor													   "			"																	  "
-"		- Lista de compras											   "			"																	  "
-"		- Monitoramento inteligente (Pet)							   "			"																	  "
-"		- Sugestao de filme											   "			"																	  "
-"		- Despertador												   "			"																	  "
-"		- Analise de gastos com Energia								   "			"																	  "
-"		- Limitar tempo de eletronicos (Economia)					   "			"																	  "
-"		- Analise de atividades fisicas								   "			"																	  "
-"		- Entretenimento (Adivinhar quem você esta pensando)	 	   "			"																	  "
-"		- Resolver problemas (Informatica)							   "			"																	  "
-"																	   "			"																	  "
-"																	   "			"		Autor: Gustavo Gino Scotton	 	-  	  Nasc.: 12/04/2018		  "
-"																	   "			"																	  "
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""			 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 from chatterbot import ChatBot 
 import speech_recognition as Sr
 import paho.mqtt.publish as publish
@@ -106,10 +46,6 @@ key_moeda=['cotação do','qual a cotação do']
 key_ditar=['digite para mim', 'escreva para mim', 'escreva o que eu falar', 'anote o que eu falar' ,'escreva por mim', 'digite por mim', 'escreva o que eu disser' ,'digite o que eu falar', 'digite o que eu disser']
 key_rota=['definir rota', 'fazer rota', 'realizar rota', 'preciso de uma rota']
 key_email=['enviar e-mail','escrever e-mail', 'mandar e-mail', 'quero enviar um e-mail', 'quero mandar um e-mail', 'quero escrever um e-mail']
-
-
-
-
 
 
 wikipedia.set_lang('pt')
