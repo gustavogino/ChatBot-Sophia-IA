@@ -13,7 +13,7 @@ Chatbot em português utilizando a biblioteca Chatterbot.
 
 * * Deixei o projeto como segundo plano, portanto, ainda existem várias atividades para implementar, sintam-se livres para realizar edições no código. Futuramente, pretendo voltar a desenvolver a Sophia.
 
-O arquivo Requirements.txt, contem as bibliotecas a serem instaladas para o funcionamento da rede.
+O arquivo Requirements.txt, contém as bibliotecas a serem instaladas para o funcionamento da rede.
 
 
 -------------------------
