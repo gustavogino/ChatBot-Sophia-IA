@@ -1,4 +1,4 @@
-# ChatBot-Sophia-IA
+# ChatBot Sophia IA
 
 Chatbot em português utilizando a biblioteca Chatterbot.
 
